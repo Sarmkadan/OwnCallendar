@@ -1,0 +1,11 @@
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\bin\Debug\CalendarForYavornicky.exe.config
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\bin\Debug\CalendarForYavornicky.exe
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\bin\Debug\CalendarForYavornicky.pdb
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\OwnCallendar.csprojResolveAssemblyReference.cache
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\OwnCallendar.Add.resources
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\OwnCallendar.Admin.resources
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\OwnCallendar.Main.resources
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\CalendarForYavornicky.Properties.Resources.resources
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\OwnCallendar.csproj.GenerateResource.Cache
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\CalendarForYavornicky.exe
+C:\Users\Sarmkadan\documents\visual studio 2013\Projects\CalendarForYavornicky\CalendarForYavornicky\obj\Debug\CalendarForYavornicky.pdb
